@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppEvento</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string-array name="spinnercategoria">
+        <item>Tudo</item>
+        <item>Show</item>
+        <item>Palestra</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
